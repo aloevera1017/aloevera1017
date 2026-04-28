@@ -6,9 +6,18 @@ I am interested in frontend development, software engineering, and UI/UX design.
 
 ## Technologies
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/364e4a2c-0eca-4f71-a328-dc7924f16638" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4033349d-cdea-4145-a854-1f4961d9299a" />
-
+<table>
+  <tr>
+    <td align="center">
+      <img width="100" height="100" alt="HTML" src="https://github.com/user-attachments/assets/364e4a2c-0eca-4f71-a328-dc7924f16638" />
+      <br>HTML
+    </td>
+    <td align="center">
+      <img width="100" height="100" alt="CSS" src="https://github.com/user-attachments/assets/4033349d-cdea-4145-a854-1f4961d9299a" />
+      <br>CSS
+    </td>
+  </tr>
+</table>
 
 
 Here are some ideas to get you started:
