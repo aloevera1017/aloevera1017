@@ -4,7 +4,7 @@ My name is Vera Zhou, and I am an eager Computer Information Systems student wit
 
 I am interested in frontend development, software engineering, and UI/UX design.
 
-## Technologies
+## 👾 Technologies
 
 <table>
   <tr>
@@ -27,15 +27,14 @@ I am interested in frontend development, software engineering, and UI/UX design.
   </tr>
 </table>
 
+## 📩 Contact Information
 
-Here are some ideas to get you started:
+Email: vzhou1017@gmail.com
+LinkedIn: www.linkedin.com/in/vera-zhou-423502289
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 Misc.
+
+- 🔭 I’m currently working on iOS app that will serve as a one-stop-shop for trending movies and TV shows with a dynamic home screen, powerful search, and detail screens that play YouTube trailers.
+- 🌱 I’m currently learning Swift and iOS development outside of school, and C++ in my DSA class.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am seeing BTS this August!
