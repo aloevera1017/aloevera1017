@@ -27,7 +27,7 @@ I am passionate about frontend development, software engineering, and UI/UX desi
       <br>Python
     </td>
     <td align="center">
-      <img width="100" height="100" alt="Figma" src="https://github.com/user-attachments/assets/b5bad564-5b79-46e6-879b-28df9f4e8941" />
+      <img width="90" height="90" alt="Figma" src="https://github.com/user-attachments/assets/b5bad564-5b79-46e6-879b-28df9f4e8941" />
       <br>Figma
     </td>
   </tr>
