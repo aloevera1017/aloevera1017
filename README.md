@@ -2,9 +2,9 @@
 
 My name is Vera Zhou, and I am a Computer Information Systems student with a strong foundation in HTML, CSS, JavaScript, and Python.
 
-I have experience in both the fintech and consulting industries, having worked with Mastercard and Accenture, where I contributed to projects at the intersection of technology, data, and business strategy.
+I have experience in both the **fintech** and **consulting** industries, having worked with Mastercard and Accenture, where I contributed to projects at the intersection of technology, data, and business strategy.
 
-I am passionate about frontend development, software engineering, and UI/UX design, with a focus on building intuitive, aesthetic, and user-centered digital experiences.
+I am passionate about frontend development, software engineering, and UI/UX design. I’m currently looking to break into the **media industry**, where I can apply these skills to create immersive, user-centered digital experiences that blend storytelling and technology.
 
 ## 👾 Technologies
 
