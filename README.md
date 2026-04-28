@@ -17,8 +17,9 @@ I am interested in frontend development, software engineering, and UI/UX design.
       <br>CSS
     </td>
     <td align="center">
-      <img width="100" height="100" alt="CSS" src="<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/c7fbe1c4-0682-4875-bd69-05482aecec20" />
-      <br>CSS
+      <img width="100" height="100" alt="CSS" src="<img width="3840" height="2160" alt="image" src="<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1a26d010-eae3-4c90-9fe4-4ae06bec4780" />
+" />
+      <br>JavaScript
     </td>
   </tr>
 </table>
