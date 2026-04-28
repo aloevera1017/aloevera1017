@@ -32,6 +32,7 @@ I am passionate about frontend development, software engineering, and UI/UX desi
 ## 📩 Contact Information
 
 Email: vzhou1017@gmail.com
+
 LinkedIn: www.linkedin.com/in/vera-zhou-423502289
 
 ## 👩🏻‍💻 Misc.
