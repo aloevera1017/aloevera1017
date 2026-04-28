@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 
 My name is Vera Zhou, and I am a Computer Information Systems student with a strong foundation in HTML, CSS, JavaScript, and Python.
 
