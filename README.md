@@ -2,6 +2,13 @@
 
 My name is Vera Zhou, and I am an eager Computer Information Systems student with a robust foundation in HTML, CSS, JavaScript, and Python.
 
+I am interested in frontend development, software engineering, and UI/UX design.
+
+## Technologies
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/364e4a2c-0eca-4f71-a328-dc7924f16638" />
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
