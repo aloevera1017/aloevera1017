@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**aloevera1017/aloevera1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vera Zhou, and I am an eager Computer Information Systems student with a robust foundation in HTML, CSS, JavaScript, and Python.
 
 Here are some ideas to get you started:
 
