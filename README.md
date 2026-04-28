@@ -19,15 +19,15 @@ I am passionate about frontend development, software engineering, and UI/UX desi
       <br>CSS
     </td>
     <td align="center">
-      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b35d8425-04f3-4194-9575-fe32eef2d713" />
+      <img width="100" height="100" alt="JavaScript" src="https://github.com/user-attachments/assets/b35d8425-04f3-4194-9575-fe32eef2d713" />
       <br>JavaScript
     </td>
     <td align="center">
-      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/132ae809-2264-4864-b8c5-bf3aa5570e97" />
+      <img width="100" height="100" alt="Python" src="https://github.com/user-attachments/assets/132ae809-2264-4864-b8c5-bf3aa5570e97" />
       <br>Python
     </td>
     <td align="center">
-      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/077733c0-0637-441d-9082-7eae5552dba1" />
+      <img width="100" height="100" alt="Figma" src="https://github.com/user-attachments/assets/b5bad564-5b79-46e6-879b-28df9f4e8941" />
       <br>Figma
     </td>
   </tr>
