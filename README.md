@@ -7,6 +7,8 @@ I am interested in frontend development, software engineering, and UI/UX design.
 ## Technologies
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/364e4a2c-0eca-4f71-a328-dc7924f16638" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4033349d-cdea-4145-a854-1f4961d9299a" />
+
 
 
 Here are some ideas to get you started:
