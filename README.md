@@ -27,17 +27,19 @@ I am passionate about frontend development, software engineering, and UI/UX desi
       <br>Python
     </td>
     <td align="center">
-      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9345cc71-c51b-49e6-9d03-6c4911da6877" />
+      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/077733c0-0637-441d-9082-7eae5552dba1" />
       <br>Figma
     </td>
   </tr>
 </table>
+
 
 ## 📩 Contact Information
 
 Email: vzhou1017@gmail.com
 
 LinkedIn: www.linkedin.com/in/vera-zhou-423502289
+
 
 ## 👩🏻‍💻 Misc.
 
